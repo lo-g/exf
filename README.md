@@ -1,2 +1,2 @@
 # exf
-Useful Kotilin extension functions
+Useful Kotlin extension functions, ready to use!
